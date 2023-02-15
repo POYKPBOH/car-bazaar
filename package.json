@@ -1,0 +1,23 @@
+{
+  "name": "rajendra",
+  "version": "1.0.0",
+  "description": "it is car dekno bazaar",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "rajendra jangid",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POYKPBOH/car-bazaar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/POYKPBOH/car-bazaar/issues"
+  },
+  "homepage": "https://github.com/POYKPBOH/car-bazaar#readme"
+}

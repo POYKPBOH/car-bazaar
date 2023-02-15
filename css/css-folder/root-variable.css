@@ -1,0 +1,12 @@
+:root {
+    --purple-color:#6B1D57;
+    --purple-color-liner: linear-gradient(to right,#6B1D57,#33176C);
+    --red-color-linear:linear-gradient(to right,#E73054,#B94646);
+    --green-color-linear:linear-gradient(to right,#8FB946,#74B946);
+    --black--color:black;
+    --primary-color-black: #22232B;
+    --secondary-color-black:#45454D;
+    --tertiary-color-black: #989898;
+    --green-color: #8FB946;
+    --white-color:white;
+  }
